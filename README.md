@@ -1,0 +1,1 @@
+![pwli](public/portfolioImage.png)
