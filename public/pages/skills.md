@@ -20,3 +20,7 @@
 - WordPress
 - Adobe Suite
 - Figma
+
+##
+
+#### More skills coming soon!
