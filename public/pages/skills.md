@@ -5,7 +5,7 @@
 - JavaScript
   - React.js
   - Next.js
-- Sass
+- SCSS/SASS
 - Tailwind
 - Python
 - Java
