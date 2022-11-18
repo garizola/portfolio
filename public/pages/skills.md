@@ -2,7 +2,7 @@
 
 ## Programming languages
 
-- JavaScript
+- JavaScript/TypeScript
   - React.js
   - Next.js
 - SCSS/SASS
