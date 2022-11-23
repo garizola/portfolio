@@ -24,6 +24,13 @@
 - React.js, MUI, API utilization
 - [Github Repo](https://github.com/garizola/omega-fitness-react#react-fitness-app)
 
+## [Personal Todos Site](https://gios-todos.netlify.app/) 🔗
+
+- An application that just lets me add, mark-off, and delete todos
+- Priority, and separate completed column coming soon
+- React.js, Tailwind, Firestore
+- [Github Repo](https://github.com/garizola/omega-fitness-react#react-fitness-app)
+
 ## [Universal Contact Form](https://contact-giovanni.vercel.app/) 🔗
 
 - Universal contact form that can be linked in any application.
