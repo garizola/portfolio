@@ -24,10 +24,18 @@
 - React.js, MUI, API utilization
 - [Github Repo](https://github.com/garizola/omega-fitness-react#react-fitness-app)
 
+## [History of Moby](https://mobyhistory.netlify.app/) 🔗
+
+- One page application as a small rundown of the musical artist Moby
+- Animation with Framer Motion, Responsive, simple/modern design
+- React.js, Tailwind, Framer Motion
+- [Github Repo](https://github.com/garizola/n320project2)
+
 ## [Personal Todos Site](https://gios-todos.netlify.app/) 🔗
 
 - An application that just lets me add, mark-off, and delete todos
 - Priority, and separate completed column coming soon
+- Firestore discontinued due to inactivity - not keeping on my todos :/
 - React.js, Tailwind, Firestore
 - [Github Repo](https://github.com/garizola/omega-fitness-react#react-fitness-app)
 
