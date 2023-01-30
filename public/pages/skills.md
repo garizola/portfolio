@@ -7,6 +7,7 @@
   - Next.js
 - SCSS/SASS
 - Tailwind
+- PHP
 - Python
 - Java
 - C++
@@ -14,9 +15,11 @@
 ## Vcs
 
 - Git
+- GitHub
 
-## Design/Others
+## Design/DBs/Others
 
+- MySQL
 - WordPress
 - Adobe Suite
 - Figma
