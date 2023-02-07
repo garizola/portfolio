@@ -2,13 +2,6 @@
 
 ## **-- React.js/Next.js Projects --**
 
-## [Ecommerce Site](https://humanknots.vercel.app/) 🔗
-
-- Site created for a jiu-jitsu inspired clothing brand named Human Knots
-- Next.js, Sanity.io (headless CMS), Stripe payment processing
-- Has not fully launched yet due to client's wishes
-- [Github Repo](https://github.com/garizola/nextjs-ecommerce-humanknots)
-
 ## [Portfolio (this)](https://giovanniarizola.xyz/) 🔗
 
 - What you are currently looking at
@@ -24,6 +17,15 @@
 - React.js, MUI, API utilization
 - [Github Repo](https://github.com/garizola/omega-fitness-react#react-fitness-app)
 
+## [Ecommerce Site](https://humanknots.vercel.app/) 🔗
+
+![hkss](public/humanknotsss.png | with=100)
+
+- Site created for a jiu-jitsu inspired clothing brand named Human Knots
+- Next.js, Sanity.io (headless CMS), Stripe payment processing
+- Has not fully launched yet due to client's wishes
+- [Github Repo](https://github.com/garizola/nextjs-ecommerce-humanknots)
+
 ## [History of Moby](https://mobyhistory.netlify.app/) 🔗
 
 - One page application as a small rundown of the musical artist Moby
@@ -35,7 +37,6 @@
 
 - An application that just lets me add, mark-off, and delete todos
 - Priority, and separate completed column coming soon
-- Firestore discontinued due to inactivity - not keeping on my todos :/
 - React.js, Tailwind, Firestore
 - [Github Repo](https://github.com/garizola/omega-fitness-react#react-fitness-app)
 

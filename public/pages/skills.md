@@ -6,24 +6,28 @@
   - React.js
   - Next.js
 - SCSS/SASS
-- Tailwind
+- Various Styling Frameworks/UI kits
 - PHP
 - Python
 - Java
 - C++
+- MySQL/SQL
 
 ## Vcs
 
 - Git
 - GitHub
 
-## Design/DBs/Others
+## Design/Others
 
-- MySQL
 - WordPress
 - Adobe Suite
+- Microsoft Apps
+- Google Workspace/Suite
 - Figma
 
 ##
 
 #### More skills coming soon!
+
+- ##### Currently studying: Cloud Development, CI/CD, Machine Learning with Python
