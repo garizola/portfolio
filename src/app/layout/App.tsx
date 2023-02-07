@@ -51,7 +51,7 @@ export default function App() {
     palette: {
       mode: paletteType,
       background: {
-        default: paletteType === "light" ? "#FFFFFF" : "#1e1e1e",
+        default: paletteType === "light" ? "#fff" : "#1e1e1e",
       },
     },
     components: {

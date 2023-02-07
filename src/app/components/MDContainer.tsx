@@ -61,7 +61,7 @@ function MarkdownH1(props: { children: ReactNode }) {
       <Typography
         variant="h1"
         sx={{
-          fontSize: "2em",
+          fontSize: "3.5em",
           display: "block",
           marginBlockStart: "0.67em",
           marginBlockEnd: "0.3em",
@@ -83,7 +83,8 @@ function MarkdownH2(props: { children: ReactNode }) {
       <Typography
         variant="h2"
         sx={{
-          fontSize: "1.5em",
+          
+          fontSize: "2em",
           display: "block",
           marginBlockStart: "0.83em",
           marginBlockEnd: "0.3em",
