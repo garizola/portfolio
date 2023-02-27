@@ -11,7 +11,7 @@
 - Python
 - Java
 - C++
-- MySQL/SQL
+- SQL
 
 ## Vcs
 
@@ -29,5 +29,3 @@
 ##
 
 #### More skills coming soon!
-
-- ##### Currently studying: Cloud Development, CI/CD, Machine Learning with Python
