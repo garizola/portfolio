@@ -18,6 +18,7 @@
 
 ### [<img src="../omegaLandingSS.png" width="300">](https://omegafitness.netlify.app/)
 
+- Not currently loading. Working API fetch bug.
 - This app lets users search a body part, exercise, or target muscle to find similar exercises
 - After clicking any exercises, recommended youtube tutorials will show for that exercise
 - React.js, MUI, API utilization
